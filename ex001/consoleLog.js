@@ -1,0 +1,1 @@
+//a funçao console.log serve para exibir coisas na tela
